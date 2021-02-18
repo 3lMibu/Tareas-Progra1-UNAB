@@ -1,2 +1,2 @@
-# Laboratorio1-Proga1-UNAB
+# Laboratorio1_Proga1_UNAB
  Ejerccios De Guia Practica 1
