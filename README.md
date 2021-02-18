@@ -1,2 +1,2 @@
-# Tareas-Progra1-UNAB
- Practicas de programación 1
+# Laboratorio1-Proga1-UNAB
+ Ejerccios De Guia Practica 1
